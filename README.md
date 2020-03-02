@@ -18,6 +18,6 @@
 
 	Output :0,2,EAST
 
-Improvements given more time
+Improvements if given more time
 1) I have just concentrated on solving problem, I would love to make it flexible by using factory design pattern and look like more object oriented.
-2) I would have created more test cases using Junit.
+2) I would have created more testcases and validations using Junit.
